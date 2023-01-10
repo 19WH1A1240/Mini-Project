@@ -20,8 +20,11 @@
 The dataset is large so only few values are printed. Mainly there are 4 columns and are described as below:
 
  • Date/Time : The date and time of the Uber pickup
+ 
  • Lat : The latitude of the Uber pickup
+ 
  • Lon : The longitude of the Uber pickup
+ 
  • Base : The TLC base company code affiliated with the Uber pickup
  
  • In the above chart Elbow method is used to find the optimal value of k by fitting the model with a range of values for K.
