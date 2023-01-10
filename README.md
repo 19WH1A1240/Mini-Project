@@ -27,8 +27,11 @@ The dataset is large so only few values are printed. Mainly there are 4 columns 
  • In the above chart Elbow method is used to find the optimal value of k by fitting the model with a range of values for K.
  ![git2](https://user-images.githubusercontent.com/69394589/211570543-2a1912c4-4f2c-4769-94f7-fd34b632bd83.png)
 
-• Analyzing the data by Weekday and Frequency
+• Analyzing the data by Hour of Day and Number of Rides
 ![map1](https://user-images.githubusercontent.com/69394589/211570779-073093b4-e358-4ff5-8d14-87acf3ee5b56.png)
+
+• Analyzing the data by Week Day, Month Day and Number of Rides in 3-D plot
+![map2](https://user-images.githubusercontent.com/69394589/211576767-5ce0df79-00ab-44d3-8a3b-227bd8386374.png)
 
 ![map](https://user-images.githubusercontent.com/69394589/211571847-b3bdf0d3-f82f-48b0-af04-c23cf2ab7f50.png)
 •The above chart shows the all six centroids have been plotted on the map.Now these centroids can be really helpful by acting as a hub so whenever a uber recives a request for ride it can check the minimum distance to each of these centroids.
