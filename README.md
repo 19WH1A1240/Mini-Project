@@ -18,6 +18,7 @@
 ![git1](https://user-images.githubusercontent.com/69394589/211569853-87ecac3f-590b-48ee-8786-b58116a1c32c.png)
 
 The dataset is large so only few values are printed. Mainly there are 4 columns and are described as below:
+
  • Date/Time : The date and time of the Uber pickup
  • Lat : The latitude of the Uber pickup
  • Lon : The longitude of the Uber pickup
@@ -32,7 +33,7 @@ The dataset is large so only few values are printed. Mainly there are 4 columns 
 ![map](https://user-images.githubusercontent.com/69394589/211571847-b3bdf0d3-f82f-48b0-af04-c23cf2ab7f50.png)
 •The above chart shows the all six centroids have been plotted on the map.Now these centroids can be really helpful by acting as a hub so whenever a uber recives a request for ride it can check the minimum distance to each of these centroids.
 
-Analyzing the Number of trips in each Cluster
+•Analyzing the Number of trips in each Cluster
 ![ud](https://user-images.githubusercontent.com/69394589/211571920-402503eb-6298-44aa-be98-f3737338961f.png)
 
 
