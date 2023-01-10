@@ -39,7 +39,9 @@ The dataset is large so only few values are printed. Mainly there are 4 columns 
 •Analyzing the Number of trips in each Cluster
 ![ud](https://user-images.githubusercontent.com/69394589/211576198-dbe09fe3-88b3-43dd-ab7c-ad226ac4e26a.png)
 
-
+## Key Points
+ • By observing the chart properly, we  see that as the sum of squared distance decreases with the number of clusters increases. After k=6 there is significant reduction. so we can choose 6 or 7 as as the cluster.
+• Predicting new location such as (40.7332,-74.2342) then it is centroid for cluster 2. So the new latitude and longitude value 40.7332,-74.2342 should be assigned to the cluster 2 . This will be as distance from the centroid of cluster 2 is minimum. So the uber ride will come closer to cluster 2.
 
 
 
