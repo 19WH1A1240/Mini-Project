@@ -34,9 +34,8 @@ The dataset is large so only few values are printed. Mainly there are 4 columns 
 •The above chart shows the all six centroids have been plotted on the map.Now these centroids can be really helpful by acting as a hub so whenever a uber recives a request for ride it can check the minimum distance to each of these centroids.
 
 •Analyzing the Number of trips in each Cluster
-<p align="left" width="100%">
-    <img width="33%" src="[https://i.stack.imgur.com/RJj4x.png](https://user-images.githubusercontent.com/69394589/211571920-402503eb-6298-44aa-be98-f3737338961f.png)">
-</p>
+![ud](https://user-images.githubusercontent.com/69394589/211576198-dbe09fe3-88b3-43dd-ab7c-ad226ac4e26a.png)
+
 
 
 
