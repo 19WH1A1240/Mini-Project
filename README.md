@@ -27,7 +27,7 @@ The dataset is large so only few values are printed. Mainly there are 4 columns 
  
  • Base : The TLC base company code affiliated with the Uber pickup
  
- • In the above chart Elbow method is used to find the optimal value of k by fitting the model with a range of values for K.
+ • In the below chart Elbow method is used to find the optimal value of k by fitting the model with a range of values for K.
  ![git2](https://user-images.githubusercontent.com/69394589/211570543-2a1912c4-4f2c-4769-94f7-fd34b632bd83.png)
 
 • Analyzing the data by Hour of Day and Number of Rides
